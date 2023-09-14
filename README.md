@@ -6,7 +6,7 @@
 
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в Школе 21, где я прошел отборочный интенсив и прохожу обучение по настоящее время.
 
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350px"></div>
+<div align="center"><img src="images/computer_man.gif" width="350px"></div>
 
 - :telescope: Прохожу обучение в Школе 21 от Сбера.
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-fossowan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fossowan) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:buzzakka6@gmail.com)
